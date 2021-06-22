@@ -2,6 +2,12 @@
 
 REST Service
 
+## data.sql
+This file initializa data into database
+
+Console H2
+http://host:port/h2-console
+
 ## Swagger Test URL
 
 The Services can be tested by next URL:
